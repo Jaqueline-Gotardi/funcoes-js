@@ -59,15 +59,3 @@ function soma(a, b) {
 function mostrarResultado() {
     console.log('O resultado da soma é: ' + soma(4, 6));
 }
-
-
-
-
-
-
-
-
-
-
-
-
