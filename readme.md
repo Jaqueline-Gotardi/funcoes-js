@@ -1,36 +1,34 @@
-# 🧠 Exercício Prático: Funções em JavaScript
+# 🧪 Repositório de Testes em JavaScript
 
-Este repositório contém um exercício simples e direto sobre **funções em JavaScript**, ideal para reforçar conceitos básicos como:
+Este repositório é o meu espaço de prática com JavaScript, onde venho testando conceitos essenciais para quem quer dominar o desenvolvimento web. Aqui estão os exercícios que venho realizando com foco total no DOM (Document Object Model) — um dos pilares para quem quer deixar as páginas interativas de verdade! 🌐✨
 
-- Declaração de funções
-- Parâmetros e argumentos
-- Retorno de valores
-- Chamada de funções
+## 📚 O que você vai encontrar por aqui?
+✅ 16 - Manipulando Elementos do DOM
+Aprendi como selecionar elementos HTML usando métodos como getElementById, getElementsByClassName, getElementsByTagName e querySelectorAll.
+Entender isso foi essencial pra saber como "conversar" com os elementos do HTML a partir do JavaScript.
 
----
+✅ 17 - Manipulando Atributos e Estilos do DOM
+Neste exercício, comecei a modificar atributos (checked, disabled, etc) e estilos (backgroundColor, classList.add) direto pelo JS.
+Foi aqui que percebi como pequenos comandos conseguem mudar completamente o visual de uma página — e de forma dinâmica!
 
-## ✨ Por que esse exercício importa?
+✅ 18 - Eventos do DOM
+Estudei como adicionar eventos aos elementos usando onclick e addEventListener.
+Comecei a entender melhor a lógica de "quando isso acontecer, faça aquilo", que é a base das interações modernas nos sites.
 
-Mesmo sendo um exercício pequeno, ele faz parte da minha jornada de aprendizado como desenvolvedora web. Cada linha de código que escrevo me aproxima do domínio dos fundamentos — e **funções são o coração do JavaScript!**
+✅ 19 - Encontrando e Interpretando Erros no JS
+Esse exercício foi sobre algo que quase ninguém fala no início, mas que faz TODA a diferença: ler os erros do console.
+Aprendi a usar o console como uma aliada para entender exatamente onde estou errando e o que precisa ser ajustado.
+(E foi libertador! 😄)
 
----
+## 🧠 Por que esse repositório existe?
+Porque aprender JavaScript vai muito além de decorar sintaxe. É sobre entender a lógica por trás, experimentar, errar, testar, errar de novo... e evoluir! Esse repositório é a minha forma de organizar meu progresso, registrar meus testes e fortalecer minha base.
 
-## 📂 O que tem aqui?
+## 👩‍💻 Quem sou eu?
+Sou a Jaqueline Gotardi, estudante de Desenvolvimento Full Stack, com foco em Front-end. Estou trilhando meu caminho com consistência, disciplina e prática constante. 💪
+Se quiser acompanhar minha jornada ou trocar experiências, me encontra lá no LinkedIn!
 
-- `index.html` → estrutura básica para testar no navegador  
-- `script.js` → contém as funções criadas e executadas no exercício
+Se você também está aprendendo ou revisando JavaScript, sinta-se à vontade pra explorar meus exercícios, deixar sugestões ou apenas dar aquele ⭐ no repositório.
 
----
-
-## 🚀 Objetivo
-
-Fixar na prática como as funções funcionam, organizam o código e evitam repetições.
-
-> Pequenos passos constroem grandes habilidades. 💻✨
-
----
-
-## 👩‍💻 Sobre mim
 
 Sou estudante de Desenvolvimento Web com foco em front-end. Estou registrando aqui minha evolução com exercícios, projetos e muita prática!
 
