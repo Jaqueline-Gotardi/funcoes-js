@@ -1,0 +1,23 @@
+.quadrados {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
+.quadrado1 { 
+    background-color: blue;
+    height: 5em;
+    width: 5em;
+}
+
+.quadrado2 { 
+    background-color: red;
+    height: 5em;
+    width: 5em;
+}
+
+button {
+    display: flex;
+    justify-self: center;
+    margin: 3px;
+}
