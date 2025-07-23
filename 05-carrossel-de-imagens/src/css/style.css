@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&family=Outfit:wght@100..900&family=Public+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Secular+One&display=swap');
+
+
+.container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.carrossel {
+    overflow: hidden; 
+    position: relative; 
+    width: 800px;
+    height: 450px;
+}
+
+
+.slide {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
+
+.slide:first-child {
+    z-index: 0;
+}
+
+.slide img {
+    max-width: 50rem;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
+.informacoes {
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 20rem;
+    height: 20rem;
+    padding: 10px 20px;
+    border-radius: 10px;
+    transform: translateX(-45%);
+    position: absolute;
+    top: 20%;
+}
+
+.informacoes h2 {
+    font-weight: 400;
+    font-size: 27px;
+    padding: 20px 0px;
+}
+
+.informacoes span {
+    font-size: 15px;
+}
+
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.botao {
+    font-weight: 700;
+    position: relative;
+    right: 39%;
+    padding-top: 60px;
+}
+
+.botao1 {
+    color: #c50000;
+}
+
+.botao2 {
+    color: #d9dd10;
+}
+
+.botao3 {
+    color: #a63a17;
+}
+
+.botao4 {
+    color: #10acdd;
+}
+
+.seta {
+    display: flex;
+    width: 49px;
+    height: 78px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-45px);
+    z-index: 10;
+}
+
+.seta img {
+    width: 30px;
+    height: 40px;
+}
+
+.seta-esquerda {
+    rotate: -180deg;
+    top: 20%;
+    left: 15px;
+}
+
+.seta-direita {
+    right: 15px;
+}
+
+.seta-desativada {
+    opacity: 45%;
+}
+
+/* .esconder {
+    display: none;
+} */
+
+.slide {
+    display: none; /* esconde todos por padrão */
+}
+
+.slide.selecionado {
+    display: flex; /* mostra só o selecionado */
+}
