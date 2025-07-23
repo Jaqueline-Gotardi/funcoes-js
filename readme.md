@@ -20,6 +20,9 @@ Esse exercício foi sobre algo que quase ninguém fala no início, mas que faz T
 Aprendi a usar o console como uma aliada para entender exatamente onde estou errando e o que precisa ser ajustado.
 (E foi libertador! 😄)
 
+✅ 20 - Carrossel de Imagens
+Neste exercício, criei um carrossel com HTML, CSS e JavaScript, controlando os slides com botões de avançar e voltar. Pratiquei a manipulação de classes com classList, uso de toggle() e lógica condicional para deixar a navegação mais interativa.
+
 ## 🧠 Por que esse repositório existe?
 Porque aprender JavaScript vai muito além de decorar sintaxe. É sobre entender a lógica por trás, experimentar, errar, testar, errar de novo... e evoluir! Esse repositório é a minha forma de organizar meu progresso, registrar meus testes e fortalecer minha base.
 
